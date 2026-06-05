@@ -1,16 +1,112 @@
-## Hi there 👋
-
-<!--
-**Faiz1612/Faiz1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-06-05T20:39:14.168Z",
+  "profile": {
+    "title": "Mohammad Faiz",
+    "subtitle": "",
+    "currentWork": "Generative AI development and cloud integration with Microsoft Azure Storage",
+    "currentLearn": "",
+    "collaborateOn": "💞️ I’m looking to collaborate on AI/ML project",
+    "helpWith": "",
+    "ama": "",
+    "contact": "mzf1612@gmail.com",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Faiz1612",
+    "dev": "",
+    "linkedin": "https://www.linkedin.com/in/mohammad-faiz-5868a4216/",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "https://codeforces.com/profile/Schrute_D2",
+    "leetcode": "https://leetcode.com/u/dwightp2/",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "aws",
+    "azure",
+    "c",
+    "cassandra",
+    "csharp",
+    "docker",
+    "elasticsearch",
+    "go",
+    "grafana",
+    "heroku",
+    "java",
+    "jenkins",
+    "jupyter",
+    "kafka",
+    "kubernetes",
+    "mariadb",
+    "mssql",
+    "mysql",
+    "oracle",
+    "pandas",
+    "postgresql",
+    "python",
+    "rabbitMQ",
+    "redis",
+    "spring",
+    "tensorflow"
+  ]
+}

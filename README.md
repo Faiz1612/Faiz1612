@@ -2,10 +2,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Faiz1612" alt="Faiz1612" /></a> </p>
 
-- 🔭 I'm currently working on **
+- 🔭 I'm currently working on 
 - 💼 Day Job: Building Gen AI solutions and cloud-native integrations with Microsoft Azure Storage.
 - 🚀 Side Projects: Experimenting with LLMs and open-source AI tooling.
-- **
 
 - 👯 I'm looking to collaborate on **💞️ Open Source AI/ML projects**
 

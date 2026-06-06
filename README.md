@@ -14,6 +14,10 @@
 <p align="left">
 <a href="https://github.com/Faiz1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Faiz1612" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-faiz-5868a4216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-faiz-5868a4216/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Coding profiles:</h3>
+<p align="left">
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/Schrute_D2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Schrute_D2" height="30" width="40" /></a>
 <a href="https://leetcode.com/https://leetcode.com/u/dwightp2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dwightp2/" height="30" width="40" /></a>
 </p>

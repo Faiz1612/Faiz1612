@@ -104,7 +104,3 @@ I'm a Software Engineer passionate about building scalable backend systems, dist
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faiz1612&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Faiz1612)

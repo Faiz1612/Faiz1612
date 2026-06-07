@@ -31,12 +31,18 @@ I'm a Software Engineer passionate about building scalable backend systems, dist
 ## 💻 Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/u/dwightp2/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<a href="https://leetcode.com/u/dwightp2/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+       alt="LeetCode"
+       height="40"
+       width="40" />
 </a>
 
-<a href="https://codeforces.com/profile/Schrute_D2">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40"/>
+<a href="https://codeforces.com/profile/Schrute_D2" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+       alt="Codeforces"
+       height="40"
+       width="40" />
 </a>
 </p>
 
